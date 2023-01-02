@@ -1,2 +1,2 @@
 @echo off
-echo "Hello">D:\newfile.txt
+echo "Hello world">D:\newfile1.txt
